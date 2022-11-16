@@ -1,6 +1,9 @@
 # Coin-op Coffee Machine
 ## Object Oriented Programming Project
-This is a project from a Python Learning course. I'm working through the course to refresh my python coding skills.
+This is a project from a Python Learning course. I'm working through the course to refresh my python coding skills.  
+
+***#  add programs and versions  #***  
+
 ## Skills  
 [] while loops  
 [] classes  
