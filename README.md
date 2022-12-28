@@ -2,7 +2,9 @@
 ## Object Oriented Programming Project
 This is a project from a Python Learning course. I'm working through the course to refresh my python coding skills.  
 
-***#  add programs and versions  #***  
+## Program version
+- Python version 3.9.12
+- PyCharm version 2022.2.3
 
 ## Skills  
 [] while loops  
